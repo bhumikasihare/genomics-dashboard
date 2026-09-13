@@ -1,2 +1,6 @@
-# Genomic Variant Dashboard
-An interactive web dashboard for genomic variant analysis, built with Python and Streamlit. View the live app here: [https://genomics-dashboard-jc7w8ehgobjbw5mvrwunvu.streamlit.app/]
+# Genomic Variant Web Dashboard 🧬
+**Author:** Bhumika Sihare  
+
+This is an interactive web dashboard for visualizing genomic variant data, built completely in Python using Streamlit and Pandas. 
+
+🌍 **[Click here to view the live interactive web app!](https://genomics-dashboard-jc7w8ehgobjbw5mvrwunvu.streamlit.app/)**
